@@ -14,4 +14,5 @@ three essential tabs:
 # convention for view
 - green is used to represent new files(A) 
 - blue is used to represent modified files(M)
+
 both idea and visualsvn browser obey this convention.
