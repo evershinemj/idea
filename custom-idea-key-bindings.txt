@@ -1,0 +1,21 @@
+C-Z  toggle vim emulator
+C-C-C-O step out
+C-C-C-S new(create) scratch file
+C-C-C-H new(create) html file
+C-$ toggle terminal
+C-X-C-J open jshell
+
+C-T-C-T toggle todo view
+C-T-C-P toggle project view
+C-T-C-F toggle favorite view
+C-T-C-O toggle outline view
+C-T-C-D toggle debug view
+C-T-C-R toggle run view
+C-T-C-V toggle version control view
+
+C-( previous editor tab
+C-) next editor tab
+
+M-T-M-P toggle presentation mode
+M-T-M-D toggle distraction free mode
+M-T-M-F toggle full screen mode

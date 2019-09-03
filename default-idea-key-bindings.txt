@@ -1,0 +1,3 @@
+C-Q quick documentation
+C-X-C-N next editor
+C-X-C-P previous editor
