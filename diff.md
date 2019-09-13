@@ -12,6 +12,7 @@ a green patch or a gray patch.
 idea opens a new window for displaying diff
 - pro: more space for displaying diff
 - con: extra operation of closing the window after viewing diff
+
 # implication of colors for file names and diff 
 - **blue** for **modified**
 - **green** for **added**
