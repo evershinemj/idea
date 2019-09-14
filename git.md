@@ -6,4 +6,4 @@
 # icons in `version control view`
 - commit(tick)
 - revert(discard local changes)
-- diff(remember to choose a file to activate this icon)
+- diff(performs `git diff`; remember to choose a file to activate this icon)
