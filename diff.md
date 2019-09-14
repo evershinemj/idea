@@ -3,6 +3,11 @@
 - **horizontal line** versus **green patch**(added)
 - **gray patch** versus **horizontal line**(deleted)
 
+# chunk diff
+- darker blue(modified)
+- darker green(added)
+- darker gray(deleted)
+
 # rendering for blank
 > idea renders blank in eclipse style.
 namely, it uses a horizontal line, which is compared with
