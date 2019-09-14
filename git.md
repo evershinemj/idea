@@ -26,4 +26,5 @@ besides **up** and **down** arrows, there are **left** and **right** arrows to n
 this diff icon compares only diff for the selected file.
 there are only **up** and **down** arrows to navigate inside the current file.
 
-
+# choose vim or emacs for commit messages
+you can choose to use vim or emacs to edit commit messages. just switch the editor to vim/emacs before committing.
