@@ -8,5 +8,5 @@ for file matches, the directory in which the file is in is given in parentheses
 ---
 it can also be used to search for directories(trailing slash can be used in this case)
 ---
-`double shift` searches **all**, `alt+/` searches actions
+`double shift` searches **all**, `alt+x` searches actions
 ---  
